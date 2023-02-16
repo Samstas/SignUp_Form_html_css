@@ -1,0 +1,74 @@
+body {
+    margin: 0;
+    padding: 0;
+    font-family: sans-serif;
+    background-image: url(./marek-piwnicki-04P38oaPUsU-unsplash.jpg);
+    background-size: cover;
+    background-position: center;
+}
+
+.signup-form {
+    width: 300px;
+    box-shadow: 0 0 3px 0 rgba(0,0,0,0.3);
+    background-color: #fff;
+    padding: 20px;
+    margin: 8% auto;
+    text-align: center;
+    border-radius: 10px;
+}
+
+.signup-form h1 {
+    margin-bottom: 30px;
+    color: #3d78ff;
+}
+
+.input-box { 
+    border-radius: 20px;
+    padding: 10px;
+    margin: 10px 0;
+    width: 90%;
+    border: 1px solid #999;
+    outline: none;
+
+}
+
+button {
+    color: #fff;
+    width: 100%;
+    padding: 10px;
+    border-radius: 20px;
+    font-size: 15px;
+    margin: 10px 0;
+    border: none;
+    outline: none;
+    cursor: pointer;
+}
+
+.signup-btn {
+    background-color: #19a5ff;
+}
+
+.twitter-btn {
+    background-color: #08bcffe6;
+}
+
+a {
+    text-decoration: none;
+    color: #1e58de;
+}
+
+hr {
+    margin-top: 20px;
+    width: 80%;
+}
+
+.or {
+background-color: #fff;
+width: 30px;
+margin: -19px auto 10px ;
+}
+
+img {
+    width: 70px;
+    margin-top: -50px;
+}
